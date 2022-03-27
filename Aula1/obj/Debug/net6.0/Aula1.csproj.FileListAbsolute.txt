@@ -1,0 +1,15 @@
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/bin/Debug/net6.0/Aula1
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/bin/Debug/net6.0/Aula1.deps.json
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/bin/Debug/net6.0/Aula1.runtimeconfig.json
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/bin/Debug/net6.0/Aula1.dll
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/bin/Debug/net6.0/Aula1.pdb
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.csproj.AssemblyReference.cache
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.AssemblyInfoInputs.cache
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.AssemblyInfo.cs
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.csproj.CoreCompileInputs.cache
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.dll
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/refint/Aula1.dll
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.pdb
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/Aula1.genruntimeconfig.cache
+/Users/leticiafanandebarros/Desktop/Controlandof/Aula1/obj/Debug/net6.0/ref/Aula1.dll
